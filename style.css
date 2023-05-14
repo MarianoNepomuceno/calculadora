@@ -5,22 +5,22 @@ body {
 }
 
 .calculadora {
-  width: 40%;
+  width: 600px;
   height: auto;
-  margin: 50px auto;
+  margin: 100px auto;
   background-color: #333;
   border: 5px solid #444;
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  padding: 10px;
+  padding: 30px;
 }
 
 #resultado {
-  width: 80%;
+  width: 80% auto;
   height: 100px;
-  font-size: 60px;
+  font-size: 38px;
   text-align: right;
   padding: 10px;
   background-color: #444;
